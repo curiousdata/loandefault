@@ -1,1 +1,3 @@
-This is a portfolio repository representing my journey as a Data Scientist / Machine learning engineer. The projects here are championships, coding challenges and business cases to which I have designed a solution.
+This is a portfolio repository representing my skills as a Data Scientist / Machine learning engineer. 
+
+The project is a machine learning model that predicts loan default probability, built as a Logistic Regression on 250k+ rows of loan history.
